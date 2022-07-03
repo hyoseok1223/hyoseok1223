@@ -31,7 +31,7 @@ Hi there👋<br> 다양한 문제를 정의하고 논리적으로 해결해나�
 <div align=center>
 
 
-## **🟣Giit Activeness🟣**
+## **🟣Git Activeness🟣**
 ![hyoseok1223's github stats](https://github-readme-stats.vercel.app/api?username=hyoseok1223&show_icons=true&theme=material-palenight)
 
 <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 테마 모음 -->
