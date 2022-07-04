@@ -30,6 +30,11 @@ Hi there👋<br> 다양한 문제를 정의하고 논리적으로 해결해나�
 <br><br>
 <div align=center>
 
+### 📞Contact📞
+<a href="dlgytjr99999@kookmin.ac.kr">
+    <img src="https://img.shields.io/badge/Gmail-EA4335"&logo=gmail&logoColor=white"/>
+</a>
+
 
 ## **🟣Git Activeness🟣**
 ![hyoseok1223's github stats](https://github-readme-stats.vercel.app/api?username=hyoseok1223&show_icons=true&theme=material-palenight)
