@@ -27,14 +27,13 @@ Hi there👋<br> 다양한 문제를 정의하고 논리적으로 해결해나�
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-plastic&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-plastic&logo=Docker&logoColor=white"/>
 </p>
-<br><br>
 <div align=center>
 
 ### 📞Contact📞
 <a href="mailto:dlgytjr99999@kookmin.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp 
 </a>
-
+<br><br>
 
 ## **🟣Git Activeness🟣**
 ![hyoseok1223's github stats](https://github-readme-stats.vercel.app/api?username=hyoseok1223&show_icons=true&theme=material-palenight)
