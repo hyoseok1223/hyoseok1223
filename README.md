@@ -31,7 +31,7 @@ Hi there👋<br> 다양한 문제를 정의하고 논리적으로 해결해나�
 <div align=center>
 
 ### 📞Contact📞
-<a href="dlgytjr99999@kookmin.ac.kr">
+<a href="mailto:dlgytjr99999@kookmin.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/></a>&nbsp 
 </a>
 
