@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=292d3e&height=300&section=header&text=HyoSeok&fontSize=90&fontColor=ae82cf)
 
-Hi there👋 I'm Hyoseok dreaming AI Researcher.<br> I'm interested in **Artificial Intelligence**, **Computer Vision** and **Computer Graphics**. 
+Hi there👋 I'm Hyoseok dreaming **AI Researcher**.<br> I'm interested in **Artificial Intelligence**, **Computer Vision** and **Computer Graphics**. 
 <br><br> More specific my **research interest**🔎
     <br><br>
     **- 2D/3D Generative Model<br>
@@ -10,7 +10,7 @@ Hi there👋 I'm Hyoseok dreaming AI Researcher.<br> I'm interested in **Artific
     - Image Inversion and Editing<br>
     - Neural Talking Head ( Vision Base )<br>**
 <br><br>
-If you want to know more about me, Please look over my ![CV]() or ![Blog](https://hyoseok-personality.tistory.com/)!
+If you want to know more about me, Please look over my **[CV](https://drive.google.com/file/d/1EwILxhlRNZkyqOU0VWK-9bbeeKI3JV_3/view?usp=share_link)** or **[Blog](https://hyoseok-personality.tistory.com/)!**
 </div> 
 
 <br><br><br><br>
