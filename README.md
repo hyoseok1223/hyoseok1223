@@ -6,9 +6,8 @@ Hi there👋 I'm Hyoseok dreaming **AI Researcher**.<br> I'm interested in **Art
 <br><br> More specific my **research interest**🔎
     <br><br>
     **- 2D/3D Generative Model<br>
-    - Camera Calibration<br>
-    - Image Inversion and Editing<br>
-    - Neural Talking Head ( Vision Base )<br>**
+    - Computational Imaging<br>
+    - Image Inversion and Editing<br>**
 <br><br>
 If you want to know more about me, Please look over my **[CV](https://drive.google.com/file/d/1EwILxhlRNZkyqOU0VWK-9bbeeKI3JV_3/view?usp=share_link)** or **[Blog](https://hyoseok-personality.tistory.com/)!**
 </div> 
