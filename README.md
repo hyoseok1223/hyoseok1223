@@ -5,13 +5,13 @@
 Hi there👋 I'm Hyoseok dreaming **AI Researcher**.<br> I'm interested in **Artificial Intelligence**, **Computer Vision** and **Computer Graphics**. 
 <br><br> More specific my **research interest**🔎
     <br><br>
-    **- 2D/3D Generative Model<br>
-    - Computational Imaging<br>
-    - Image Inversion and Editing<br>
+    **- Generative Model<br>
+    - Computational Photography<br>
+    - Event-based Vision<br>
     - Neural Rendering<br>
     - Virtual-Try-ON<br>**
 <br><br>
-If you want to know more about me, Please look over my **[CV](https://drive.google.com/file/d/1EwILxhlRNZkyqOU0VWK-9bbeeKI3JV_3/view?usp=share_link)** or **[Blog](https://hyoseok-personality.tistory.com/)!**
+If you want to know more about me, Please look over my **[CV](assets/CV.pdf)** or **[Blog](https://hyoseok-personality.tistory.com/)!**
 </div> 
 
 <br><br><br><br>
