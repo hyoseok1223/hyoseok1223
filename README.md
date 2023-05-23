@@ -2,48 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=292d3e&height=300&section=header&text=HyoSeok&fontSize=90&fontColor=ae82cf)
 
-Hi there👋 I'm Hyoseok dreaming **AI Researcher**.<br> I'm interested in **Artificial Intelligence**, **Computer Vision** and **Computer Graphics**. 
-<br><br> More specific my **research interest**🔎
-    <br><br>
-    **- Generative Model<br>
-    - Computational Photography<br>
-    - Event-based Vision<br>
-    - Neural Rendering<br>
-    - Virtual-Try-ON<br>**
+Hi there👋 I'm Hyoseok **AI Researcher**.<br> I'm interested in **Artificial Intelligence**, **Computer Vision** and **Computer Graphics**. 
+
+I prefer usually using **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/>, **PyTorch** <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-plastic&logo=Pytorch&logoColor=white"/> and **Wandb** <img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/>.
+
+**If you want to know more about me, Please look over my **[CV](assets/CV.pdf)** or **[Blog](https://hyoseok-personality.tistory.com/)!****
 <br><br>
-If you want to know more about me, Please look over my **[CV](assets/CV.pdf)** or **[Blog](https://hyoseok-personality.tistory.com/)!**
-</div> 
-
-<br><br><br><br>
-
-
-<div align=left>
-  
-### Programming Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-plastic&logo=cplusplus&logoColor=white"/>
-<br>
-    
-    
-### Frameworks ( DL / CV / CG )
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-plastic&logo=Pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch Lightning-792EE5?style=flat-plastic&logo=Pytorch Lightning&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pytorch 3d-A100FF?style=flat-plastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-plastic&logo=OpenGL&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-plastic&logo=OpenCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/MMlab_Framework-0000FF?style=flat-plastic&logoColor=white"/>
-<br>
-    
-    
-### ETC
-<img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradio-F36D00?style=flat-plastic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-plastic&logo=Streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-plastic&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-plastic&logo=MySQL&logoColor=white"/>
-
-
-
 
 ## **🟣Git Activeness🟣**
 ![hyoseok1223's github stats](https://github-readme-stats.vercel.app/api?username=hyoseok1223&show_icons=true&theme=material-palenight)
