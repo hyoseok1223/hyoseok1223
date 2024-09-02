@@ -4,10 +4,10 @@
 
 Hi there👋 I'm Hyoseok **AI Researcher**.<br> I'm interested in **Artificial Intelligence**, **Computer Vision** and **Computer Graphics**. 
 
-I prefer usually using **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/>, **PyTorch** <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-plastic&logo=Pytorch&logoColor=white"/> and **Wandb** <img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/>.
+<!-- I prefer usually using **Python** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-plastic&logo=Python&logoColor=white"/>, **PyTorch** <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-plastic&logo=Pytorch&logoColor=white"/> and **Wandb** <img src="https://img.shields.io/badge/Wandb-FFBE00?style=flat-plastic&logo=Weightsandbiases&logoColor=white"/>.-->
 
-**If you want to know more about me, Please look over my **[CV](assets/CV.pdf)** or **[Blog](https://hyoseok-personality.tistory.com/)!****
-<br><br>
+<!-- **If you want to know more about me, Please look over my **[CV](assets/CV.pdf)** or **[Blog](https://hyoseok-personality.tistory.com/)!****
+<br><br>-->
 
 ## **🟣Git Activeness🟣**
 ![hyoseok1223's github stats](https://github-readme-stats.vercel.app/api?username=hyoseok1223&show_icons=true&theme=material-palenight)
